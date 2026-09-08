@@ -1,25 +1,25 @@
 {
-  "latestVersion": "1.0.1",
-  "latestVersionCode": 2,
+  "latestVersion": "1.0.2",
+  "latestVersionCode": 4,
   "releaseDate": "2026-09-08",
-  "releaseNotes": "• إضافة ميزة التحديث الجزئي الذكي\n• تحسين أداء التبييض واستقرار الواجهة",
+  "releaseNotes": "إعدادات التطبيق الشاملة، سيرفر IOPaint ونيجروك للتبييض، وتفعيل الكشيدة المتقدمة افتراضياً",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.1.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.1.apk",
-    "sizeBytes": 112381949,
-    "sizeFormatted": "107.18 ميغابايت",
-    "sha256": "1b83b9b18089e896e5abc32a1dc1981536c32401385995fa2c799b42795b8472"
+    "fileName": "Smart-Photo_v1.0.2.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.2.apk",
+    "sizeBytes": 113072469,
+    "sizeFormatted": "107.83 ميغابايت",
+    "sha256": "a15af5bbdde9c8e131276606a6084a4f80b568436386e05eafd1a8297a388a60"
   },
   "patches": [
     {
-      "fromVersion": "1.0.0",
-      "fromVersionCode": 1,
-      "fileName": "patch_v1.0.0_to_v1.0.1.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.0_to_v1.0.1.patch",
-      "sizeBytes": 303,
-      "sizeFormatted": "303.00 بايت",
-      "patchSha256": "e46b16ffc272c32d0bd0083041ce659526a7ce0eaa296f934c40dba853814f4c",
-      "targetSha256": "f3c0d49196a5a61c6ab10b8af5173a9ef92ffd1407b9d0e509819a411c975cea"
+      "fromVersion": "1.0.1.",
+      "fromVersionCode": 3,
+      "fileName": "patch_v1.0.1._to_v1.0.2.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.1._to_v1.0.2.patch",
+      "sizeBytes": 11877380,
+      "sizeFormatted": "11.33 ميغابايت",
+      "patchSha256": "9e85b08aa39c09725ea7511b5053468f0f044df8378773baf9ceda9fd8fd7982",
+      "targetSha256": "a15af5bbdde9c8e131276606a6084a4f80b568436386e05eafd1a8297a388a60"
     }
   ]
 }
