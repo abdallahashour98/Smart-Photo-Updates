@@ -1,0 +1,25 @@
+{
+  "latestVersion": "1.0.1",
+  "latestVersionCode": 2,
+  "releaseDate": "2026-09-08",
+  "releaseNotes": "• إضافة ميزة التحديث الجزئي الذكي\n• تحسين أداء التبييض واستقرار الواجهة",
+  "fullApk": {
+    "fileName": "mock_app_v1.0.1.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/mock_app_v1.0.1.apk",
+    "sizeBytes": 1166000,
+    "sizeFormatted": "1.11 ميغابايت",
+    "sha256": "f3c0d49196a5a61c6ab10b8af5173a9ef92ffd1407b9d0e509819a411c975cea"
+  },
+  "patches": [
+    {
+      "fromVersion": "1.0.0",
+      "fromVersionCode": 1,
+      "fileName": "patch_v1.0.0_to_v1.0.1.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.0_to_v1.0.1.patch",
+      "sizeBytes": 303,
+      "sizeFormatted": "303.00 بايت",
+      "patchSha256": "e46b16ffc272c32d0bd0083041ce659526a7ce0eaa296f934c40dba853814f4c",
+      "targetSha256": "f3c0d49196a5a61c6ab10b8af5173a9ef92ffd1407b9d0e509819a411c975cea"
+    }
+  ]
+}
