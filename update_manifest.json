@@ -1,25 +1,25 @@
 {
-  "latestVersion": "1.0.25",
-  "latestVersionCode": 27,
+  "latestVersion": "1.0.26",
+  "latestVersionCode": 28,
   "releaseDate": "2026-09-14",
-  "releaseNotes": "تبييض ذكي كامل للفقاعات بمحاكاة الفرشة وإزالة أي نقاط أو بقايا سوداء نهائياً",
+  "releaseNotes": "إصلاح خطأ تراكم أسماء الملفات المؤقتة File name too long أثناء التنظيف المتكرر",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.25.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.25.apk",
-    "sizeBytes": 115986433,
+    "fileName": "Smart-Photo_v1.0.26.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.26.apk",
+    "sizeBytes": 115986429,
     "sizeFormatted": "110.61 MB",
-    "sha256": "ae63de85026cd46e8dc5181cc64f61ef156cdef1bda7f8fe3faa58a2573cb87b"
+    "sha256": "62aef1508cf1349672f689e522106fac09659fd6bfcce5e337cf9f124e54b501"
   },
   "patches": [
     {
-      "fromVersion": "1.0.24",
-      "fromVersionCode": 26,
-      "fileName": "patch_v1.0.24_to_v1.0.25.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.24_to_v1.0.25.patch",
-      "sizeBytes": 7597391,
-      "sizeFormatted": "7.25 MB",
-      "patchSha256": "fe924bf0b130fa59680b5ce113cdff44770e34272def837c8ed1557e97b7b8d2",
-      "targetSha256": "ae63de85026cd46e8dc5181cc64f61ef156cdef1bda7f8fe3faa58a2573cb87b"
+      "fromVersion": "1.0.25",
+      "fromVersionCode": 27,
+      "fileName": "patch_v1.0.25_to_v1.0.26.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.25_to_v1.0.26.patch",
+      "sizeBytes": 9703041,
+      "sizeFormatted": "9.25 MB",
+      "patchSha256": "9df08fd76c30014c3d9b59d49a0b9811d8903f5535c152a7d257840fbc88687c",
+      "targetSha256": "62aef1508cf1349672f689e522106fac09659fd6bfcce5e337cf9f124e54b501"
     }
   ]
 }
