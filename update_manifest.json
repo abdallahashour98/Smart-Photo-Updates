@@ -1,25 +1,25 @@
 {
-  "latestVersion": "1.0.23",
-  "latestVersionCode": 25,
+  "latestVersion": "1.0.24",
+  "latestVersionCode": 26,
   "releaseDate": "2026-09-13",
-  "releaseNotes": "ييس",
+  "releaseNotes": "إصلاح هالات وظلال النصوص في التنظيف التلقائي للفقاعات",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.23.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.23.apk",
+    "fileName": "Smart-Photo_v1.0.24.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.24.apk",
     "sizeBytes": 115986433,
     "sizeFormatted": "110.61 MB",
-    "sha256": "9e45ac6ff46007c89d3e7f35002be55166517ae652ad610bd60a243b17a92bef"
+    "sha256": "5f42779872c1f38fb45193230d8d4cb4c5947b0df1bd962f0eb5a2e307e34a60"
   },
   "patches": [
     {
-      "fromVersion": "1.0.22",
-      "fromVersionCode": 24,
-      "fileName": "patch_v1.0.22_to_v1.0.23.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.22_to_v1.0.23.patch",
-      "sizeBytes": 12338660,
-      "sizeFormatted": "11.77 MB",
-      "patchSha256": "0df97f2a98be482480cc514cca68d879e08866cd59fbd3379e9be93ede644c6d",
-      "targetSha256": "9e45ac6ff46007c89d3e7f35002be55166517ae652ad610bd60a243b17a92bef"
+      "fromVersion": "1.0.23",
+      "fromVersionCode": 25,
+      "fileName": "patch_v1.0.23_to_v1.0.24.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.23_to_v1.0.24.patch",
+      "sizeBytes": 7533866,
+      "sizeFormatted": "7.18 MB",
+      "patchSha256": "58da414946114474bbca1528d82b8ba7474174b5a2ea9203e3d38a6f7960f463",
+      "targetSha256": "5f42779872c1f38fb45193230d8d4cb4c5947b0df1bd962f0eb5a2e307e34a60"
     }
   ]
 }
