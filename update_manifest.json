@@ -1,25 +1,25 @@
 {
-  "latestVersion": "1.0.26",
-  "latestVersionCode": 28,
+  "latestVersion": "1.0.27",
+  "latestVersionCode": 29,
   "releaseDate": "2026-09-14",
-  "releaseNotes": "إصلاح خطأ تراكم أسماء الملفات المؤقتة File name too long أثناء التنظيف المتكرر",
+  "releaseNotes": "fix",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.26.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.26.apk",
-    "sizeBytes": 115986429,
-    "sizeFormatted": "110.61 MB",
-    "sha256": "62aef1508cf1349672f689e522106fac09659fd6bfcce5e337cf9f124e54b501"
+    "fileName": "Smart-Photo_v1.0.27.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.27.apk",
+    "sizeBytes": 116166657,
+    "sizeFormatted": "110.79 MB",
+    "sha256": "885c193710ff96111ea6190155ff6115df2913a792e94e6ab70a6b24eb20a0fc"
   },
   "patches": [
     {
-      "fromVersion": "1.0.25",
-      "fromVersionCode": 27,
-      "fileName": "patch_v1.0.25_to_v1.0.26.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.25_to_v1.0.26.patch",
-      "sizeBytes": 9703041,
-      "sizeFormatted": "9.25 MB",
-      "patchSha256": "9df08fd76c30014c3d9b59d49a0b9811d8903f5535c152a7d257840fbc88687c",
-      "targetSha256": "62aef1508cf1349672f689e522106fac09659fd6bfcce5e337cf9f124e54b501"
+      "fromVersion": "1.0.26",
+      "fromVersionCode": 28,
+      "fileName": "patch_v1.0.26_to_v1.0.27.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.26_to_v1.0.27.patch",
+      "sizeBytes": 12628499,
+      "sizeFormatted": "12.04 MB",
+      "patchSha256": "38d8c27d22ed1d56e61b57c4be2b4c4a7d3d4c3ef83b757641b6e0691f38747a",
+      "targetSha256": "885c193710ff96111ea6190155ff6115df2913a792e94e6ab70a6b24eb20a0fc"
     }
   ]
 }
