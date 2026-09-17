@@ -1,25 +1,25 @@
 {
-  "latestVersion": "1.0.35",
-  "latestVersionCode": 37,
-  "releaseDate": "2026-09-14",
-  "releaseNotes": "مم",
+  "latestVersion": "1.0.36",
+  "latestVersionCode": 38,
+  "releaseDate": "2026-09-17",
+  "releaseNotes": "789",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.35.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.35.apk",
-    "sizeBytes": 116379649,
-    "sizeFormatted": "110.99 MB",
-    "sha256": "a087ea7e937c5709175fc43e7923f94223e71d87b53b0efb6b0a9a3e2f5a0689"
+    "fileName": "Smart-Photo_v1.0.36.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.36.apk",
+    "sizeBytes": 55946987,
+    "sizeFormatted": "53.36 MB",
+    "sha256": "a76bfc38f89a9b220cdd2e202a8de7c8ca1f8ca3892b980409ad7fcba9a9297c"
   },
   "patches": [
     {
-      "fromVersion": "1.0.33",
-      "fromVersionCode": 36,
-      "fileName": "patch_v1.0.33_to_v1.0.35.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.33_to_v1.0.35.patch",
-      "sizeBytes": 13169637,
-      "sizeFormatted": "12.56 MB",
-      "patchSha256": "19a1bc5307f9ed421d2f3e16552d5bec34a81e81e45ea4431acce5bd5d99b8db",
-      "targetSha256": "a087ea7e937c5709175fc43e7923f94223e71d87b53b0efb6b0a9a3e2f5a0689"
+      "fromVersion": "1.0.35",
+      "fromVersionCode": 37,
+      "fileName": "patch_v1.0.35_to_v1.0.36.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.35_to_v1.0.36.patch",
+      "sizeBytes": 9612501,
+      "sizeFormatted": "9.17 MB",
+      "patchSha256": "fd5c43ab5a34793c064f463fabe9cf1f943b1c6b3c6eeaf53f8b8d31fa89bf04",
+      "targetSha256": "a76bfc38f89a9b220cdd2e202a8de7c8ca1f8ca3892b980409ad7fcba9a9297c"
     }
   ]
 }
