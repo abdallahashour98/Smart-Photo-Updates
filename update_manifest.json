@@ -1,26 +1,26 @@
 {
-  "latestVersion": "1.0.37",
-  "latestVersionCode": 39,
+  "latestVersion": "1.0.38",
+  "latestVersionCode": 40,
   "releaseDate": "2026-09-17",
-  "releaseNotes": "8",
+  "releaseNotes": "Fast Release with optimized arm64 ABI and robust delta update fallback",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.37.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.37.apk",
-    "sizeBytes": 55946991,
-    "sizeFormatted": "53.36 MB",
-    "sha256": "afbfda2c8fdda8ad77a8bff090e7ca6d8094e98d44200a494eda8f23278a11a1"
+    "fileName": "Smart-Photo_v1.0.38.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.38.apk",
+    "sizeBytes": 45878876,
+    "sizeFormatted": "43.75 MB",
+    "sha256": "c673a90d6862899b1ce06983994dc23fe4b87502280d59b53cf9777099fc0ef5"
   },
   "patches": [
     {
-      "fromVersion": "1.0.36",
-      "fromVersionCode": 38,
-      "fileName": "patch_v1.0.36_to_v1.0.37.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.36_to_v1.0.37.patch",
-      "sizeBytes": 4345612,
-      "sizeFormatted": "4.14 MB",
-      "fromSha256": "a76bfc38f89a9b220cdd2e202a8de7c8ca1f8ca3892b980409ad7fcba9a9297c",
-      "patchSha256": "68d09ca8bb7405dd043b44deade63b61a078743917adcefe3fd185e2b45b7103",
-      "targetSha256": "afbfda2c8fdda8ad77a8bff090e7ca6d8094e98d44200a494eda8f23278a11a1"
+      "fromVersion": "1.0.37",
+      "fromVersionCode": 39,
+      "fileName": "patch_v1.0.37_to_v1.0.38.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.37_to_v1.0.38.patch",
+      "sizeBytes": 973942,
+      "sizeFormatted": "951.12 KB",
+      "fromSha256": "afbfda2c8fdda8ad77a8bff090e7ca6d8094e98d44200a494eda8f23278a11a1",
+      "patchSha256": "d865b85fc29e61ed5c358c660fc2773108980beb35f2bcc08a39a8e4155deb85",
+      "targetSha256": "c673a90d6862899b1ce06983994dc23fe4b87502280d59b53cf9777099fc0ef5"
     }
   ]
 }
