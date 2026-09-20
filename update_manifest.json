@@ -1,26 +1,26 @@
 {
-  "latestVersion": "1.0.40",
-  "latestVersionCode": 42,
-  "releaseDate": "2026-09-17",
-  "releaseNotes": "Official Release v1.0.40 with clean Fast ARM64 build and update verification",
+  "latestVersion": "1.0.41",
+  "latestVersionCode": 43,
+  "releaseDate": "2026-09-20",
+  "releaseNotes": "521",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.40.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.40.apk",
+    "fileName": "Smart-Photo_v1.0.41.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.41.apk",
     "sizeBytes": 45878876,
     "sizeFormatted": "43.75 MB",
-    "sha256": "b60e86c3b6de032a65c019e533f0252f79993555be60f7124b459bb0d585d949"
+    "sha256": "42bb73caf22c6f13781a863e25453f22dbcd19fa8f926d6f667787697a27a291"
   },
   "patches": [
     {
-      "fromVersion": "1.0.38",
-      "fromVersionCode": 41,
-      "fileName": "patch_v1.0.38_to_v1.0.40.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.38_to_v1.0.40.patch",
-      "sizeBytes": 4345724,
+      "fromVersion": "1.0.40",
+      "fromVersionCode": 42,
+      "fileName": "patch_v1.0.40_to_v1.0.41.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.40_to_v1.0.41.patch",
+      "sizeBytes": 4345939,
       "sizeFormatted": "4.14 MB",
-      "fromSha256": "c673a90d6862899b1ce06983994dc23fe4b87502280d59b53cf9777099fc0ef5",
-      "patchSha256": "97270e0edaae0073831588ff45ff98f511e7f386703d92fb2416f55a4cf73aea",
-      "targetSha256": "b60e86c3b6de032a65c019e533f0252f79993555be60f7124b459bb0d585d949"
+      "fromSha256": "b60e86c3b6de032a65c019e533f0252f79993555be60f7124b459bb0d585d949",
+      "patchSha256": "c03bf776c9a31da646a32d735d88cfef3dedf2d589ad43d80c1232e09a16248c",
+      "targetSha256": "42bb73caf22c6f13781a863e25453f22dbcd19fa8f926d6f667787697a27a291"
     }
   ]
 }
