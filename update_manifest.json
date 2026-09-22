@@ -1,26 +1,26 @@
 {
-  "latestVersion": "1.0.52",
-  "latestVersionCode": 54,
+  "latestVersion": "1.0.53",
+  "latestVersionCode": 55,
   "releaseDate": "2026-09-22",
-  "releaseNotes": "1",
+  "releaseNotes": "asl",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.52.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.52.apk",
-    "sizeBytes": 46009948,
-    "sizeFormatted": "43.88 MB",
-    "sha256": "ba571af7bfc5a0f7417e47a20e63ee17bee0bb002fc5d6944cefe5967cdcd9a0"
+    "fileName": "Smart-Photo_v1.0.53.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.53.apk",
+    "sizeBytes": 46075484,
+    "sizeFormatted": "43.94 MB",
+    "sha256": "5a5781409e8231b298999d89d195bad5e536c798288403880481aa15df7c8aa2"
   },
   "patches": [
     {
-      "fromVersion": "1.0.51",
-      "fromVersionCode": 53,
-      "fileName": "patch_v1.0.51_to_v1.0.52.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.51_to_v1.0.52.patch",
-      "sizeBytes": 4429312,
-      "sizeFormatted": "4.22 MB",
-      "fromSha256": "14aaa1aa2ca3fe6eb2480c963c1114d63f3683e4862be6b6f06ed488f610bc75",
-      "patchSha256": "6ab253bb65e65724551fef3297b7122f897508230ab5940068fe41241a0c82c5",
-      "targetSha256": "ba571af7bfc5a0f7417e47a20e63ee17bee0bb002fc5d6944cefe5967cdcd9a0"
+      "fromVersion": "1.0.52",
+      "fromVersionCode": 54,
+      "fileName": "patch_v1.0.52_to_v1.0.53.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.52_to_v1.0.53.patch",
+      "sizeBytes": 4458188,
+      "sizeFormatted": "4.25 MB",
+      "fromSha256": "ba571af7bfc5a0f7417e47a20e63ee17bee0bb002fc5d6944cefe5967cdcd9a0",
+      "patchSha256": "8b1dc44d76d953c43bf01c448c16b556ce865baf47dcc2988d892b79a57fd21f",
+      "targetSha256": "5a5781409e8231b298999d89d195bad5e536c798288403880481aa15df7c8aa2"
     }
   ]
 }
