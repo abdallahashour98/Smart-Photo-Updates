@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.0.63",
-  "latestVersionCode": 65,
+  "latestVersion": "1.0.64",
+  "latestVersionCode": 2062,
   "releaseDate": "2026-09-27",
-  "releaseNotes": "Fix text font fitting and Arabic mark rendering; improve imported gradient styles and recent gradients.",
+  "releaseNotes": "Fix Android upgrade installation by using monotonic build number; retain font and gradient improvements.",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.63.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.63.apk",
+    "fileName": "Smart-Photo_v1.0.64.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.64.apk",
     "sizeBytes": 46272092,
     "sizeFormatted": "44.13 MB",
-    "sha256": "a510b1f4fd0b09a9a27f7155bf6169dbec5dbc746e7805edeaed7fc4ad86358c"
+    "sha256": "6ca9820001365365d7caf41f800a20d0feeef3971002a539bc42796d99873bfb"
   },
   "patches": [
     {
-      "fromVersion": "1.0.58",
-      "fromVersionCode": 60,
-      "fileName": "patch_v1.0.58_to_v1.0.63.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.58_to_v1.0.63.patch",
-      "sizeBytes": 15352592,
-      "sizeFormatted": "14.64 MB",
-      "fromSha256": "82cf76e918b63ce99ba1571979ea6f0ba7e22281ef6026dd8c691573797e4f7e",
-      "patchSha256": "ef706c4844f4a599874d0e89a2d501827477ff49f34b1d7a4f0773d6d0f5fb9a",
-      "targetSha256": "a510b1f4fd0b09a9a27f7155bf6169dbec5dbc746e7805edeaed7fc4ad86358c"
-    },
-    {
       "fromVersion": "1.0.59",
       "fromVersionCode": 61,
-      "fileName": "patch_v1.0.59_to_v1.0.63.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.59_to_v1.0.63.patch",
-      "sizeBytes": 15352832,
+      "fileName": "patch_v1.0.59_to_v1.0.64.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.59_to_v1.0.64.patch",
+      "sizeBytes": 15352454,
       "sizeFormatted": "14.64 MB",
       "fromSha256": "074f50c9465bdf27462be4fd77cda804912734f859e384753385b3dfd2a41bcd",
-      "patchSha256": "9003996e77e417dcfb34f1339601e81bee4d4c4e06177edfd41c3752157239ea",
-      "targetSha256": "a510b1f4fd0b09a9a27f7155bf6169dbec5dbc746e7805edeaed7fc4ad86358c"
+      "patchSha256": "ea978176b9d2dbeacead6ad2ef2f6ddbb2efdbe16b1302c1b0300cdd2ed97381",
+      "targetSha256": "6ca9820001365365d7caf41f800a20d0feeef3971002a539bc42796d99873bfb"
     },
     {
       "fromVersion": "1.0.62",
       "fromVersionCode": 64,
-      "fileName": "patch_v1.0.62_to_v1.0.63.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.62_to_v1.0.63.patch",
-      "sizeBytes": 15352218,
+      "fileName": "patch_v1.0.62_to_v1.0.64.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.62_to_v1.0.64.patch",
+      "sizeBytes": 15352227,
       "sizeFormatted": "14.64 MB",
       "fromSha256": "ae30f38caa9801afbec9aece28f4863f808b557f264d3fbe40b0fd88e4e6be25",
-      "patchSha256": "5284d4b2be3f4cae15d5b3a7119343094a447c8e3f5c6fc32738a150f7d41fb1",
-      "targetSha256": "a510b1f4fd0b09a9a27f7155bf6169dbec5dbc746e7805edeaed7fc4ad86358c"
+      "patchSha256": "3e94d963c56792711456c57ac4354d00b1555d122d3a043bb218fb15673c57c1",
+      "targetSha256": "6ca9820001365365d7caf41f800a20d0feeef3971002a539bc42796d99873bfb"
+    },
+    {
+      "fromVersion": "1.0.63",
+      "fromVersionCode": 65,
+      "fileName": "patch_v1.0.63_to_v1.0.64.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.63_to_v1.0.64.patch",
+      "sizeBytes": 154238,
+      "sizeFormatted": "150.62 KB",
+      "fromSha256": "a510b1f4fd0b09a9a27f7155bf6169dbec5dbc746e7805edeaed7fc4ad86358c",
+      "patchSha256": "93b3f8da2905937b9b6c855e8fc9c4717135dbe421f59b14d0891972e66682f1",
+      "targetSha256": "6ca9820001365365d7caf41f800a20d0feeef3971002a539bc42796d99873bfb"
     }
   ]
 }
