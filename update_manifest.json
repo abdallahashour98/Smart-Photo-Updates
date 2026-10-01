@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.0.76",
-  "latestVersionCode": 2074,
+  "latestVersion": "1.0.77",
+  "latestVersionCode": 2075,
   "releaseDate": "2026-10-01",
-  "releaseNotes": "Non-blocking in-canvas 3D perspective bottom bar with live real-time editing and 1-click presets",
+  "releaseNotes": "Fix perspective UI layout, dock spacing, and canvas clutter",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.76.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.76.apk",
+    "fileName": "Smart-Photo_v1.0.77.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.77.apk",
     "sizeBytes": 46403164,
     "sizeFormatted": "44.25 MB",
-    "sha256": "8a2144cc7b03ef4b3cf1f4de7a64ecb8e0cba1182f726d2992ebeb61a9e45092"
+    "sha256": "b49af5a1bcd0d5507561ac8df092e46a2ca2503453c70c5b2b62671211885ee4"
   },
   "patches": [
     {
-      "fromVersion": "1.0.73",
-      "fromVersionCode": 2071,
-      "fileName": "patch_v1.0.73_to_v1.0.76.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.73_to_v1.0.76.patch",
-      "sizeBytes": 15391703,
-      "sizeFormatted": "14.68 MB",
-      "fromSha256": "cad3287e58f41dfd8ae56a0c00ab34ffaabc2a0e600849c64144f9ec642a4d1b",
-      "patchSha256": "34000c0b678ea1cc558949ada5567d8b94b0dfc76055f1d388f7c196ca99534f",
-      "targetSha256": "8a2144cc7b03ef4b3cf1f4de7a64ecb8e0cba1182f726d2992ebeb61a9e45092"
-    },
-    {
       "fromVersion": "1.0.74",
       "fromVersionCode": 2072,
-      "fileName": "patch_v1.0.74_to_v1.0.76.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.74_to_v1.0.76.patch",
-      "sizeBytes": 15391703,
+      "fileName": "patch_v1.0.74_to_v1.0.77.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.74_to_v1.0.77.patch",
+      "sizeBytes": 15394035,
       "sizeFormatted": "14.68 MB",
       "fromSha256": "37f3987fee7ddf2a7c809680b31cae6f8d3ea6ff879e146f85a1e542c666e710",
-      "patchSha256": "34000c0b678ea1cc558949ada5567d8b94b0dfc76055f1d388f7c196ca99534f",
-      "targetSha256": "8a2144cc7b03ef4b3cf1f4de7a64ecb8e0cba1182f726d2992ebeb61a9e45092"
+      "patchSha256": "83ef1e507c51b7d944e7ac36f499fb92cac129d9838b7c19abd7e9ae85cc8a7c",
+      "targetSha256": "b49af5a1bcd0d5507561ac8df092e46a2ca2503453c70c5b2b62671211885ee4"
     },
     {
       "fromVersion": "1.0.75",
       "fromVersionCode": 2073,
-      "fileName": "patch_v1.0.75_to_v1.0.76.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.75_to_v1.0.76.patch",
-      "sizeBytes": 15397468,
+      "fileName": "patch_v1.0.75_to_v1.0.77.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.75_to_v1.0.77.patch",
+      "sizeBytes": 15397243,
       "sizeFormatted": "14.68 MB",
       "fromSha256": "f8108c1d5bdf186d94265d20949ae7245bcf0ba6bef44d7fc21516c9d979c165",
-      "patchSha256": "d73335c70bb823bee9856d415eea8d50c0fde96d37634aa09dc766990d4c579e",
-      "targetSha256": "8a2144cc7b03ef4b3cf1f4de7a64ecb8e0cba1182f726d2992ebeb61a9e45092"
+      "patchSha256": "08ca4690266fef6760d6bf72caa1a94405d7a1c4f0af64edb95673371ddf4f9b",
+      "targetSha256": "b49af5a1bcd0d5507561ac8df092e46a2ca2503453c70c5b2b62671211885ee4"
+    },
+    {
+      "fromVersion": "1.0.76",
+      "fromVersionCode": 2074,
+      "fileName": "patch_v1.0.76_to_v1.0.77.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.76_to_v1.0.77.patch",
+      "sizeBytes": 15394035,
+      "sizeFormatted": "14.68 MB",
+      "fromSha256": "8a2144cc7b03ef4b3cf1f4de7a64ecb8e0cba1182f726d2992ebeb61a9e45092",
+      "patchSha256": "83ef1e507c51b7d944e7ac36f499fb92cac129d9838b7c19abd7e9ae85cc8a7c",
+      "targetSha256": "b49af5a1bcd0d5507561ac8df092e46a2ca2503453c70c5b2b62671211885ee4"
     }
   ]
 }
