@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.0.78",
-  "latestVersionCode": 2076,
+  "latestVersion": "1.0.79",
+  "latestVersionCode": 2077,
   "releaseDate": "2026-10-01",
-  "releaseNotes": "إضافة أداة التحديد بـ 4 نقاط على الصورة مثل الفوتوشوب مع حرية مطلقة لتحريك مقابض المنظور",
+  "releaseNotes": "إضافة أداة الالتفاف والمنظور متعدد النقاط (4 مستوٍ، 6 قوس ودوران، 8 تمويجة)",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.78.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.78.apk",
+    "fileName": "Smart-Photo_v1.0.79.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.79.apk",
     "sizeBytes": 46468700,
     "sizeFormatted": "44.32 MB",
-    "sha256": "9ab7983f6b7d87fabc521dda95b5ca1a5941f5c3902375c9f5e849962150b42c"
+    "sha256": "29028ab834b05e9aae219fb23430e8f715f577598865a22a2665a4a35851ccbc"
   },
   "patches": [
     {
-      "fromVersion": "1.0.75",
-      "fromVersionCode": 2073,
-      "fileName": "patch_v1.0.75_to_v1.0.78.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.75_to_v1.0.78.patch",
-      "sizeBytes": 15386958,
-      "sizeFormatted": "14.67 MB",
-      "fromSha256": "f8108c1d5bdf186d94265d20949ae7245bcf0ba6bef44d7fc21516c9d979c165",
-      "patchSha256": "1852f56dd4b59dee38592b80251403a5caaf380b7d3d84f1c21263c979fe61de",
-      "targetSha256": "9ab7983f6b7d87fabc521dda95b5ca1a5941f5c3902375c9f5e849962150b42c"
-    },
-    {
       "fromVersion": "1.0.76",
       "fromVersionCode": 2074,
-      "fileName": "patch_v1.0.76_to_v1.0.78.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.76_to_v1.0.78.patch",
-      "sizeBytes": 15386958,
-      "sizeFormatted": "14.67 MB",
+      "fileName": "patch_v1.0.76_to_v1.0.79.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.76_to_v1.0.79.patch",
+      "sizeBytes": 15389383,
+      "sizeFormatted": "14.68 MB",
       "fromSha256": "8a2144cc7b03ef4b3cf1f4de7a64ecb8e0cba1182f726d2992ebeb61a9e45092",
-      "patchSha256": "1852f56dd4b59dee38592b80251403a5caaf380b7d3d84f1c21263c979fe61de",
-      "targetSha256": "9ab7983f6b7d87fabc521dda95b5ca1a5941f5c3902375c9f5e849962150b42c"
+      "patchSha256": "43547436ca1e52d5cec79f57dc7db82a0169fa351517622b65aca83f92e245aa",
+      "targetSha256": "29028ab834b05e9aae219fb23430e8f715f577598865a22a2665a4a35851ccbc"
     },
     {
       "fromVersion": "1.0.77",
       "fromVersionCode": 2075,
-      "fileName": "patch_v1.0.77_to_v1.0.78.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.77_to_v1.0.78.patch",
-      "sizeBytes": 15386958,
-      "sizeFormatted": "14.67 MB",
+      "fileName": "patch_v1.0.77_to_v1.0.79.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.77_to_v1.0.79.patch",
+      "sizeBytes": 15398755,
+      "sizeFormatted": "14.69 MB",
       "fromSha256": "b49af5a1bcd0d5507561ac8df092e46a2ca2503453c70c5b2b62671211885ee4",
-      "patchSha256": "1852f56dd4b59dee38592b80251403a5caaf380b7d3d84f1c21263c979fe61de",
-      "targetSha256": "9ab7983f6b7d87fabc521dda95b5ca1a5941f5c3902375c9f5e849962150b42c"
+      "patchSha256": "3fa39e310b580cc72e143f7fa0818eb46a292ed6ae3ebf0f39c75dc1891e773d",
+      "targetSha256": "29028ab834b05e9aae219fb23430e8f715f577598865a22a2665a4a35851ccbc"
+    },
+    {
+      "fromVersion": "1.0.78",
+      "fromVersionCode": 2076,
+      "fileName": "patch_v1.0.78_to_v1.0.79.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.78_to_v1.0.79.patch",
+      "sizeBytes": 15393237,
+      "sizeFormatted": "14.68 MB",
+      "fromSha256": "9ab7983f6b7d87fabc521dda95b5ca1a5941f5c3902375c9f5e849962150b42c",
+      "patchSha256": "72c96220793a447918216be294938a6ea2b9ee577936efb4fa309a4a35d7eab9",
+      "targetSha256": "29028ab834b05e9aae219fb23430e8f715f577598865a22a2665a4a35851ccbc"
     }
   ]
 }
