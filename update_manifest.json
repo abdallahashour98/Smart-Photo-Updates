@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.0.95",
-  "latestVersionCode": 2094,
-  "releaseDate": "2026-10-12",
-  "releaseNotes": "lama_inpainter_service_",
+  "latestVersion": "1.0.96",
+  "latestVersionCode": 2095,
+  "releaseDate": "2026-10-13",
+  "releaseNotes": "إعادة تصميم سلايدرز تعديل المقاسات بالكامل",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.95.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.95.apk",
-    "sizeBytes": 47036288,
+    "fileName": "Smart-Photo_v1.0.96.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.96.apk",
+    "sizeBytes": 47036284,
     "sizeFormatted": "44.86 MB",
-    "sha256": "b90fec48084e11adb72d555a3fa498429294250b1679ff902a93092528d2daf3"
+    "sha256": "81c92bdfbb35a3cfde86d3ec93705f13602bd33fbe32ab2a861901f79f865621"
   },
   "patches": [
     {
-      "fromVersion": "1.0.92",
-      "fromVersionCode": 2091,
-      "fileName": "patch_v1.0.92_to_v1.0.95.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.92_to_v1.0.95.patch",
-      "sizeBytes": 15589272,
-      "sizeFormatted": "14.87 MB",
-      "fromSha256": "2d0697a4aa57856afaace1e25373ac718def663035840f6099af66267fb3dee0",
-      "patchSha256": "2182814c4fe417478513808b5e9ee0beccd7a3ab9ecb5693a042c2a267a7205a",
-      "targetSha256": "b90fec48084e11adb72d555a3fa498429294250b1679ff902a93092528d2daf3"
-    },
-    {
       "fromVersion": "1.0.93",
       "fromVersionCode": 2092,
-      "fileName": "patch_v1.0.93_to_v1.0.95.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.93_to_v1.0.95.patch",
-      "sizeBytes": 15589272,
-      "sizeFormatted": "14.87 MB",
+      "fileName": "patch_v1.0.93_to_v1.0.96.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.93_to_v1.0.96.patch",
+      "sizeBytes": 15585359,
+      "sizeFormatted": "14.86 MB",
       "fromSha256": "74dd6d67d18d64a72a474c06b231cd775778de0ec3abfdb85587fc6468d82806",
-      "patchSha256": "2182814c4fe417478513808b5e9ee0beccd7a3ab9ecb5693a042c2a267a7205a",
-      "targetSha256": "b90fec48084e11adb72d555a3fa498429294250b1679ff902a93092528d2daf3"
+      "patchSha256": "c6923f86bc8f65df32d6e8adf1a48c4d8a93fdd8a5320f618dd1a1c117288805",
+      "targetSha256": "81c92bdfbb35a3cfde86d3ec93705f13602bd33fbe32ab2a861901f79f865621"
     },
     {
       "fromVersion": "1.0.94",
       "fromVersionCode": 2093,
-      "fileName": "patch_v1.0.94_to_v1.0.95.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.94_to_v1.0.95.patch",
-      "sizeBytes": 15589272,
-      "sizeFormatted": "14.87 MB",
+      "fileName": "patch_v1.0.94_to_v1.0.96.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.94_to_v1.0.96.patch",
+      "sizeBytes": 15585359,
+      "sizeFormatted": "14.86 MB",
       "fromSha256": "13904dd25ed76de5356c75b6c47cc67d6b5502744359ceebcc0eb505cc63c701",
-      "patchSha256": "2182814c4fe417478513808b5e9ee0beccd7a3ab9ecb5693a042c2a267a7205a",
-      "targetSha256": "b90fec48084e11adb72d555a3fa498429294250b1679ff902a93092528d2daf3"
+      "patchSha256": "c6923f86bc8f65df32d6e8adf1a48c4d8a93fdd8a5320f618dd1a1c117288805",
+      "targetSha256": "81c92bdfbb35a3cfde86d3ec93705f13602bd33fbe32ab2a861901f79f865621"
+    },
+    {
+      "fromVersion": "1.0.95",
+      "fromVersionCode": 2094,
+      "fileName": "patch_v1.0.95_to_v1.0.96.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.95_to_v1.0.96.patch",
+      "sizeBytes": 15585359,
+      "sizeFormatted": "14.86 MB",
+      "fromSha256": "b90fec48084e11adb72d555a3fa498429294250b1679ff902a93092528d2daf3",
+      "patchSha256": "c6923f86bc8f65df32d6e8adf1a48c4d8a93fdd8a5320f618dd1a1c117288805",
+      "targetSha256": "81c92bdfbb35a3cfde86d3ec93705f13602bd33fbe32ab2a861901f79f865621"
     }
   ]
 }
