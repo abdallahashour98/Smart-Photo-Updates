@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.0.105",
-  "latestVersionCode": 2105,
+  "latestVersion": "1.0.106",
+  "latestVersionCode": 2107,
   "releaseDate": "2026-10-20",
-  "releaseNotes": "إصلاح جذري للشاشة الشفافة والطبقات المبيضة في الكانفاس، وإزالة طبقات الكاش الرسومي الفائضة ودعم مسارات SAF لكافة الصور",
+  "releaseNotes": "تسريع فائق وفوري للاستجابة عند تعديل النصوص والمقاسات من الشريط السفلي ومنع تعليق الكيبورد والسلايدرز",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.105.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.105.apk",
+    "fileName": "Smart-Photo_v1.0.106.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.106.apk",
     "sizeBytes": 47232920,
     "sizeFormatted": "45.04 MB",
-    "sha256": "f75576300c01ea3656347dcaff96afebb3af84d0abe5ed7f55a89ce0dad2d377"
+    "sha256": "db5df3044461d2c296068583f57a873a23a6622dd50f9e6924b77e7717961dc3"
   },
   "patches": [
     {
-      "fromVersion": "1.0.102",
-      "fromVersionCode": 2101,
-      "fileName": "patch_v1.0.102_to_v1.0.105.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.102_to_v1.0.105.patch",
-      "sizeBytes": 4763281,
-      "sizeFormatted": "4.54 MB",
-      "fromSha256": "02b17eb0bf00934da02b8cf21efad8c067501c3ea84867ad5f18c08ec00d3e6a",
-      "patchSha256": "c903514737af5b1839d05c245b55a32557f4b2a591163fc1907280d9269bb210",
-      "targetSha256": "f75576300c01ea3656347dcaff96afebb3af84d0abe5ed7f55a89ce0dad2d377"
-    },
-    {
       "fromVersion": "1.0.103",
       "fromVersionCode": 2102,
-      "fileName": "patch_v1.0.103_to_v1.0.105.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.103_to_v1.0.105.patch",
-      "sizeBytes": 4763274,
-      "sizeFormatted": "4.54 MB",
+      "fileName": "patch_v1.0.103_to_v1.0.106.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.103_to_v1.0.106.patch",
+      "sizeBytes": 4776064,
+      "sizeFormatted": "4.55 MB",
       "fromSha256": "b3c8af6ea34481c5878b0cbc2cc4c8e24f725cfb62794e544c514a96e9fff9cc",
-      "patchSha256": "d1337b0c7ae925121734ec182340e2e40bb7f3b68fbbd026b5ebf4658144c5cd",
-      "targetSha256": "f75576300c01ea3656347dcaff96afebb3af84d0abe5ed7f55a89ce0dad2d377"
+      "patchSha256": "cbf88929f86fa66e2a4f2a154efe5cc7ad7543c949a520937a5181cffdb45f4f",
+      "targetSha256": "db5df3044461d2c296068583f57a873a23a6622dd50f9e6924b77e7717961dc3"
     },
     {
       "fromVersion": "1.0.104",
       "fromVersionCode": 2103,
-      "fileName": "patch_v1.0.104_to_v1.0.105.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.104_to_v1.0.105.patch",
-      "sizeBytes": 4763274,
-      "sizeFormatted": "4.54 MB",
+      "fileName": "patch_v1.0.104_to_v1.0.106.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.104_to_v1.0.106.patch",
+      "sizeBytes": 4776064,
+      "sizeFormatted": "4.55 MB",
       "fromSha256": "b4cf4db306e2b1b9fd1e3617be2638507677318149bcbc1ce42632a53040a912",
-      "patchSha256": "d1337b0c7ae925121734ec182340e2e40bb7f3b68fbbd026b5ebf4658144c5cd",
-      "targetSha256": "f75576300c01ea3656347dcaff96afebb3af84d0abe5ed7f55a89ce0dad2d377"
+      "patchSha256": "cbf88929f86fa66e2a4f2a154efe5cc7ad7543c949a520937a5181cffdb45f4f",
+      "targetSha256": "db5df3044461d2c296068583f57a873a23a6622dd50f9e6924b77e7717961dc3"
+    },
+    {
+      "fromVersion": "1.0.105",
+      "fromVersionCode": 2105,
+      "fileName": "patch_v1.0.105_to_v1.0.106.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.105_to_v1.0.106.patch",
+      "sizeBytes": 4776064,
+      "sizeFormatted": "4.55 MB",
+      "fromSha256": "f75576300c01ea3656347dcaff96afebb3af84d0abe5ed7f55a89ce0dad2d377",
+      "patchSha256": "cbf88929f86fa66e2a4f2a154efe5cc7ad7543c949a520937a5181cffdb45f4f",
+      "targetSha256": "db5df3044461d2c296068583f57a873a23a6622dd50f9e6924b77e7717961dc3"
     }
   ]
 }
