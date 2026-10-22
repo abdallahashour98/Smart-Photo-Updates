@@ -1,48 +1,48 @@
 {
-  "latestVersion": "1.0.108",
-  "latestVersionCode": 2110,
+  "latestVersion": "1.0.109",
+  "latestVersionCode": 2111,
   "releaseDate": "2026-10-22",
-  "releaseNotes": "fix  lag",
+  "releaseNotes": "تسريع سلايدرز الخط والتأثيرات: حجم الخط، سمك الإطار، الظل، التوهج، وزاوية التدرج بمعاينة حية واستجابة فورية",
   "fullApk": {
-    "fileName": "Smart-Photo_v1.0.108.apk",
-    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.108.apk",
+    "fileName": "Smart-Photo_v1.0.109.apk",
+    "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/Smart-Photo_v1.0.109.apk",
     "sizeBytes": 47232920,
     "sizeFormatted": "45.04 MB",
-    "sha256": "4223a3bb229ac1c3c748c95d3f7f4c437b32cac0f2a0fcb5b9ccacb8ce4eee81"
+    "sha256": "acd9ea93816fef2189b944bc5cef6c9fadb06742edeaa987fdf65191cd8ef070"
   },
   "patches": [
     {
-      "fromVersion": "1.0.105",
-      "fromVersionCode": 2105,
-      "fileName": "patch_v1.0.105_to_v1.0.108.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.105_to_v1.0.108.patch",
-      "sizeBytes": 4772553,
-      "sizeFormatted": "4.55 MB",
-      "fromSha256": "f75576300c01ea3656347dcaff96afebb3af84d0abe5ed7f55a89ce0dad2d377",
-      "patchSha256": "88642dad078955d4ccf688196a085cdc1906c0ba136d4c8e02dcd71a438e20e4",
-      "targetSha256": "4223a3bb229ac1c3c748c95d3f7f4c437b32cac0f2a0fcb5b9ccacb8ce4eee81"
-    },
-    {
       "fromVersion": "1.0.106",
       "fromVersionCode": 2107,
-      "fileName": "patch_v1.0.106_to_v1.0.108.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.106_to_v1.0.108.patch",
-      "sizeBytes": 4772553,
+      "fileName": "patch_v1.0.106_to_v1.0.109.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.106_to_v1.0.109.patch",
+      "sizeBytes": 4775936,
       "sizeFormatted": "4.55 MB",
       "fromSha256": "db5df3044461d2c296068583f57a873a23a6622dd50f9e6924b77e7717961dc3",
-      "patchSha256": "88642dad078955d4ccf688196a085cdc1906c0ba136d4c8e02dcd71a438e20e4",
-      "targetSha256": "4223a3bb229ac1c3c748c95d3f7f4c437b32cac0f2a0fcb5b9ccacb8ce4eee81"
+      "patchSha256": "b2b6e06fcdf4f38e1cacee4b6b9b7921225608163fa79fe1ca42ac50826d97fa",
+      "targetSha256": "acd9ea93816fef2189b944bc5cef6c9fadb06742edeaa987fdf65191cd8ef070"
     },
     {
       "fromVersion": "1.0.107",
       "fromVersionCode": 2109,
-      "fileName": "patch_v1.0.107_to_v1.0.108.patch",
-      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.107_to_v1.0.108.patch",
-      "sizeBytes": 4772430,
+      "fileName": "patch_v1.0.107_to_v1.0.109.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.107_to_v1.0.109.patch",
+      "sizeBytes": 4775627,
       "sizeFormatted": "4.55 MB",
       "fromSha256": "34aa152be74442931c497410e86f82f11015a9dd9788ab7c05944947c95c5a07",
-      "patchSha256": "5fef49e83b3a777e4c5ee7484a14fe0e06cddb4d1857deb4f4ad9bf69629e43a",
-      "targetSha256": "4223a3bb229ac1c3c748c95d3f7f4c437b32cac0f2a0fcb5b9ccacb8ce4eee81"
+      "patchSha256": "36584f9e5d55376b4d707c5a19511876f63d35673a62d305a91e23cfa5e28208",
+      "targetSha256": "acd9ea93816fef2189b944bc5cef6c9fadb06742edeaa987fdf65191cd8ef070"
+    },
+    {
+      "fromVersion": "1.0.108",
+      "fromVersionCode": 2110,
+      "fileName": "patch_v1.0.108_to_v1.0.109.patch",
+      "url": "https://github.com/abdallahashour98/Smart-Photo-Updates/releases/latest/download/patch_v1.0.108_to_v1.0.109.patch",
+      "sizeBytes": 4775935,
+      "sizeFormatted": "4.55 MB",
+      "fromSha256": "4223a3bb229ac1c3c748c95d3f7f4c437b32cac0f2a0fcb5b9ccacb8ce4eee81",
+      "patchSha256": "f59772e71a4b30abe57d6ad1b0d79c85f44469e54678817c6a9bbc4ca0694d17",
+      "targetSha256": "acd9ea93816fef2189b944bc5cef6c9fadb06742edeaa987fdf65191cd8ef070"
     }
   ]
 }
